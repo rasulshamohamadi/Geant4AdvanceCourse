@@ -8,7 +8,7 @@ class Person extends Model
 {
     //
     protected $fillable = ['nationalcode','first_name','last_name','father_name','birthplace','birthdate'];
-
+    
 
     public function Admition()
     {
